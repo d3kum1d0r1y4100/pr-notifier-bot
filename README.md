@@ -1,2 +1,2 @@
-# hydra-triage-no-checkout
-Triage test: PRT + no checkout (FP)
+# Triage Test: no checkout
+Test repo — FP: no checkout step, npm install is global.
