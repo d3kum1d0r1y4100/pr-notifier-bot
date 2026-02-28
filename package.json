@@ -1,0 +1,7 @@
+{
+  "name": "triage-test-no-checkout",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo building"
+  }
+}
