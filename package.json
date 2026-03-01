@@ -1,5 +1,5 @@
 {
-  "name": "triage-test-no-checkout",
+  "name": "pr-notifier-bot",
   "version": "1.0.0",
   "scripts": {
     "build": "echo building"
